@@ -1,0 +1,6 @@
+build/
+.hvigor/
+.idea/
+*.hap
+*.log
+*.cache
