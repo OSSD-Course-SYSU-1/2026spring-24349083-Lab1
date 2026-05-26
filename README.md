@@ -1,4 +1,5 @@
 
+
 工作目录如下：
 OxHornCampus-master/
 ├── AppScope/                          # 应用全局配置
@@ -98,3 +99,7 @@ OxHornCampus-master/
 # 2026spring-24349083-Lab1
 Lab1 for OSSD Course
 a5a1df2363746cd0654ae3f4e94230e463fc9bd5
+
+# 2026spring-24349083-Lab1
+Lab1 for OSSD Course
+ 07b6e87e7e4d6ba346c627592ca4c0d01f6c1808
